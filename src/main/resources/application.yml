@@ -1,0 +1,5 @@
+#选择开发环境与线上环境的yml
+sprinig:
+  profiles:
+    active: dev
+
